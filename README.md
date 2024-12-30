@@ -50,6 +50,8 @@ The following datasets were used in this project:
 - The **United States** offers the largest content library, with over 3,211 titles.
 - **India** ranks second, showcasing Netflix's focus on South Asia.
 - Switzerland has the highest subscription fees, with premium plans costing $26.96/month.
+  
+![Geographic Impact](Geographical (2).png "Cyclistic Summary")
 
 ### 2. Content Growth Timeline
 - Netflix’s content library has grown exponentially since 2015, driven by heavy investments in Originals.
