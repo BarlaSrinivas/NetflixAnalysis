@@ -46,20 +46,24 @@ The following datasets were used in this project:
 
 ## 🔑 Key Insights
 
-### 1. Geographic Impact
+### 1. Geographic Impact - **[CLICK HERE TO INTERACT WITH DASHBOARD](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Geographical2)**  
 - The **United States** offers the largest content library, with over 3,211 titles.
 - **India** ranks second, showcasing Netflix's focus on South Asia.
 - Switzerland has the highest subscription fees, with premium plans costing $26.96/month.
   
-![Geographic Impact](Geographical (2).png "Cyclistic Summary")
+![Geographic Impact](Geographical.png "Geographical Summary")
 
-### 2. Content Growth Timeline
+### 2. Content Growth Timeline - **[CLICK HERE TO INTERACT WITH DASHBOARD](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Timeline2)**  
 - Netflix’s content library has grown exponentially since 2015, driven by heavy investments in Originals.
 - By 2021, Netflix had spent over **$17 billion** on content creation.
 
-### 3. Popularity Metrics
+![Content Growth Timeline](Timeline.png "Timeline Summary")
+
+### 3. Popularity Metrics - **[CLICK HERE TO INTERACT WITH DASHBOARD](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Popularity2)**  
 - Netflix had **370 million subscribers worldwide** by Q2 2022.
 - Subscriber growth in regions like **Asia-Pacific** and **Latin America** highlights the platform’s global expansion strategy.
+
+![Popularity Metrics](Popularity.png "Popularity Summary")
 
 ---
 
