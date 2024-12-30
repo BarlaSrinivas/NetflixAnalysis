@@ -78,7 +78,7 @@ The following datasets were used in this project:
 ## 📜 Blog Post & Dashoard
 
 Read the detailed project write-up on Medium:  
-[**Netflix Data Visualization: Exploring the Global Streaming Leader**](https://your-medium-link-here)
+[**Netflix Data Visualization: Exploring the Global Streaming Leader**](https://medium.com/@srinivasbarla2000/netflix-data-visualization-exploring-the-global-streaming-leader-4c3cd8e5577f)
 
 Explore the interactive dashboards created in Tableau:                                                 **[NETFLIX - ANALYSIS - DASHBOARD](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Geographical2)**  
 
