@@ -32,7 +32,6 @@ Through data cleaning, analysis, and visualization, this project uncovers insigh
 ├── README.md                       # Project documentation
 └── LICENSE                         # License for the repository
 ```
-
 ---
 
 ## 📊 Datasets
@@ -62,16 +61,6 @@ The following datasets were used in this project:
 
 ---
 
-## 🌟 Dashboards
-
-Explore the interactive dashboards created in Tableau:
-
-1. **[Geographical Impact Dashboard](insert-link-to-Tableau-Geographical-Dashboard)**  
-2. **[Content Growth Timeline Dashboard](insert-link-to-Tableau-Timeline-Dashboard)**  
-3. **[Subscriber Metrics Dashboard](insert-link-to-Tableau-Popularity-Dashboard)**  
-
----
-
 ## 🛠️ Tools Used
 
 - **Python**: For data cleaning and preprocessing using `pandas` and `numpy`.
@@ -80,15 +69,10 @@ Explore the interactive dashboards created in Tableau:
 
 ---
 
-## 📜 Blog Post
+## 📜 Blog Post & Dashoard
 
 Read the detailed project write-up on Medium:  
 [**Netflix Data Visualization: Exploring the Global Streaming Leader**](https://your-medium-link-here)
 
----
+Explore the interactive dashboards created in Tableau:                                                 **[NETFLIX - ANALYSIS - DASHBOARD](https://public.tableau.com/app/profile/srinivas.barla/viz/Netflix_17352977889580/Geographical2)**  
 
-## 🚀 How to Reproduce
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-data-visualization.git
