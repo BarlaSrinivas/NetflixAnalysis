@@ -16,6 +16,15 @@ Through data cleaning, analysis, and visualization, this project uncovers insigh
 
 ---
 
+## 🛠️ Technologies Used
+
+- **Python**: Data cleaning, preprocessing, and analysis
+- **Pandas & NumPy**: Data manipulation and numerical computations
+- **Jupyter Notebooks**: Exploratory data analysis and workflow documentation
+- **Tableau**: Creating interactive dashboards and visualizations
+- **Git**: Version control and collaboration
+---
+
 ## 📂 Repository Structure
 
 ```bash
@@ -67,11 +76,48 @@ The following datasets were used in this project:
 
 ---
 
-## 🛠️ Tools Used
+## 🔄 Data Pipeline
 
-- **Python**: For data cleaning and preprocessing using `pandas` and `numpy`.
-- **Tableau**: For creating interactive dashboards and visualizations.
-- **Jupyter Notebooks**: For exploratory data analysis and documenting the workflow.
+### 1. Data Acquisition
+
+- Downloaded datasets from Kaggle
+- Stored raw data in the `data/raw/` directory
+
+### 2. Data Cleaning and Preprocessing
+
+- Utilized Jupyter Notebook (`notebooks/01_data_cleaning.ipynb`) for data cleaning
+- Performed the following tasks:
+  - Handled missing values
+  - Removed duplicates
+  - Standardized data formats (e.g., date formats, currency conversions)
+  - Merged relevant datasets
+- Saved cleaned datasets in the `data/processed/` directory
+
+### 3. Exploratory Data Analysis (EDA)
+
+- Conducted EDA using Jupyter Notebook (`notebooks/02_exploratory_analysis.ipynb`)
+- Explored key variables and relationships
+- Generated initial insights and hypotheses
+
+### 4. Data Visualization
+
+- Imported cleaned data into Tableau
+- Created three main dashboards:
+  1. Geographic Impact
+  2. Content Growth Timeline
+  3. Popularity Metrics
+- Designed interactive elements for user exploration
+
+### 5. Insight Generation
+
+- Analyzed visualizations to extract key findings
+- Summarized insights for each dashboard (see Key Insights section)
+
+### 6. Deployment and Sharing
+
+- Published Tableau dashboards to Tableau Public
+- Created a Medium blog post to share findings
+- Updated GitHub repository with all project files and documentation
 
 ---
 
